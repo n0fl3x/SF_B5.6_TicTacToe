@@ -4,13 +4,17 @@ def greetings_rules():
     print("                   It's a game for two players where they take their turns one by")
     print("                                              another.")
     print(" ")
+    print(" ")
     print("                    For every turn just enter a number of game field sector")
     print("                       where you want to place your token and press enter.")
+    print(" ")
     print(" ")
     print("                    First player who collect 3 same tokens in one row, column")
     print("                                        or diagonal wins.")
     print(" ")
+    print(" ")
     print("                                Play smart & enjoy your game! :)")
+    print(" ")
 
 
 game_field = [i + 1 for i in range(9)]
